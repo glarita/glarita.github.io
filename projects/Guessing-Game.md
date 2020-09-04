@@ -2,15 +2,15 @@
 layout: project
 type: project
 image: 
-title: Hospital GUI
-permalink: projects/Hospital-GUI
+title: Guessing Game
+permalink: projects/Guessing-Game
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-01
 labels:
   - Java
-  - GUI
+  - JGrasp
   - ICS
-summary: Created my first GUI as a class assignment for my Intro to Computer Science II class in 2019.
+summary: Created a guessing game for my ICS 111 class in 2019.
 ---
 
 <div class="ui small rounded images">
