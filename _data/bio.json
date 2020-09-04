@@ -92,8 +92,8 @@
       "highlights": [
         "Maintain, update, and troubleshoot on-campus computers",
         "Respond to telephone calls and emails, provide IT helpdesk assistance to staff and faculty",
-        "troubleshoot network and hardware issues",
-        "imaging campus-owned computers",
+        "Troubleshoot network and hardware issues",
+        "Imaging campus-owned computers",
         "When working in the testing center, provide and proctor test in an efficent manner"
       ]
     },
@@ -110,34 +110,22 @@
         "Communicate effectively with doctors and staff",
         "Accurately update documentation in electronic medical records"
       ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
-      ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "Pearl City Elementary School",
+      "position": "After-School Aplus Aide/Leader",
+      "website": "https://www.pearlcity-es.org",
+      "startDate": "2012-04-20",
+      "endDate": "2017-05-26",
+      "summary": "After-School care provided for students",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Provide exceptional care for students enrolled in the program",
+        "Provide a safe and positive environement for students",
+        "Communicate effectively with staff and site coordinator",
+        "Contact parents through telephone when needed."
       ]
     }
+    
   ],
   "awards": [
     {
