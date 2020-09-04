@@ -13,6 +13,8 @@ labels:
 
 ## Excitement
 
+<img class="ui tiny left circular floated image" src="../images/Overthinking.jpg">
+
 *Am I good enough?*
 
 This a question that I found asking myself every start of a semester. The syllabi, assignments, exams, and a fear of the unknown all contribute to a sense of self-doubt and overthinking that I tend to encounter routinely. This is especially true when it comes to learning a new coding language, and all the rules and syntax changes that come with it. All I can think about are the long hours and restless nights I’m about to spend trying to fix a bug in a program when the solution can be something as simple as missing a semi-colon or an extra bracket. 
