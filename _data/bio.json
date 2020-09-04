@@ -40,7 +40,7 @@
       ]
     },
     {
-      "name": "Artificial Intelligence",
+      "name": "Learning",
       "keywords": [
       ]
     }
@@ -53,9 +53,7 @@
         "C",
         "C++",
         "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Javascript"
       ]
     },
     {
@@ -63,22 +61,23 @@
       "level": "",
       "keywords": [
         "MacOS",
-        "Ubuntu",
-        "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "WindowsOS",
+        "Git/GitHub"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2022)",
       "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "startDate": "2019-01-13",
       "endDate": "Present",
       "gpa": "",
       "courses": [
+        "Software Engineering",
+        "Algorithms",
+        "Program structure"
       ]
     }
   ],
