@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Becoming an Artist
+title: Let's Build
 # All dates must be YYYY-MM-DD format!
 date: 2020-09-04
 labels:
