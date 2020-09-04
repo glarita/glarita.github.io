@@ -10,7 +10,7 @@ labels:
   - Progression
 ---
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">*Difficulty: a thing that is hard to accomplish, deal with, or understand.*
+<img class="ui tiny left circular floated image" src="../images/Software-Engineering.jpg">
 
 ## Change
 
