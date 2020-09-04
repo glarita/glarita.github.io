@@ -81,7 +81,7 @@
     },
     {
       "institution": "Leeward Community College, Pearl City, HI",
-      "area": "Computer Science (Transfer to UH Manoa)",
+      "area": "Computer Science, Natural Science with concentration in ICT (Transfer to UH Manoa)",
       "studyType": "A.S.",
       "startDate": "2019-01-13",
       "endDate": "2020-05-07",
@@ -150,16 +150,10 @@
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "Honor Roll",
+      "date": "2017",
+      "awarder": "Hawaii Medical College",
+      "summary": "Achieved Honor Roll for graduating Hawaii Medical College with a 4.0 gpa."
     }
   ],
   "references": [
