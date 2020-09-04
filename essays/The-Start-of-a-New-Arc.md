@@ -21,7 +21,7 @@ This a question that I found asking myself every start of a semester. The syllab
 
 And yet, I still find myself excited for software engineering. 
 
-The ability to create using our conscience is something that seems so simple, but not other animal in the world creates like humans create. And the fact that we are creating things like websites, applications, and machines is amazing, giving me all the more reason to be excited to learn about software engineering. It allows me to experience the creation of things that I admire. 
+The ability to create using our conscience is something that seems so simple, but no other animal in the world creates like humans create. And the fact that we are creating things like websites, applications, and machines is amazing, giving me all the more reason to be excited to learn about software engineering. It allows me to experience the creation of things that I admire. 
 
 
 
