@@ -1,9 +1,9 @@
 ---
 layout: project
 type: project
-image: images/micromouse.jpg
+image: 
 title: Hospital GUI
-permalink: projects/micromouse
+permalink: projects/Hospital-GUI
 # All dates must be YYYY-MM-DD format!
 date: 2019-11-01
 labels:
