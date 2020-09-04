@@ -83,27 +83,32 @@
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
+      "company": "Leeward Community College",
+      "position": "IT Student Aide/Helpdesk Training",
       "website": "",
-      "startDate": "2015-08-01",
+      "startDate": "2019-09-21",
       "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "summary": "Leeward Testing Center and Helpdesk",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Maintain, update, and troubleshoot on-campus computers",
+        "Respond to telephone calls and emails, provide IT helpdesk assistance to staff and faculty",
+        "troubleshoot network and hardware issues",
+        "imaging campus-owned computers",
+        "When working in the testing center, provide and proctor test in an efficent manner"
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "Straub Medical Center",
+      "position": "Medical Assistant",
+      "website": "https://www.hawaiipacifichealth.org/straub/",
+      "startDate": "2017-11-20",
+      "endDate": "2018-12-21",
+      "summary": "Float Medical Assistant and Cardiology Medical Assistant",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "Provide exceptional patient care and build rapport",
+        "Answer phone and email responses to patients",
+        "Communicate effectively with doctors and staff",
+        "Accurately update documentation in electronic medical records"
       ]
     }
   ],
