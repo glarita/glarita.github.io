@@ -13,7 +13,7 @@ labels:
 
 ## Excitement
 
-<img class="ui tiny left circular floated image" src="../images/paintbrushes.jpg">
+<img class="ui tiny left circular floated image" src="../images/Overthinking.jpg">
 
 *Am I good enough?*
 
