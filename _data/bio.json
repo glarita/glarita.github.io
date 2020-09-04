@@ -71,13 +71,39 @@
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2022)",
       "studyType": "B.S.",
-      "startDate": "2019-01-13",
+      "startDate": "2020-08-24",
       "endDate": "Present",
       "gpa": "",
       "courses": [
         "Software Engineering",
         "Algorithms",
-        "Program structure"
+        ""
+      ]
+    },
+    {
+      "institution": "Leeward Community College, Pearl City, HI",
+      "area": "Computer Science (Transfer to UH Manoa)",
+      "studyType": "A.S.",
+      "startDate": "2019-01-13",
+      "endDate": "2020-05-07",
+      "gpa": "",
+      "courses": [
+        "Program Structure",
+        "Intro to Computer Science",
+        ""
+      ]
+    },
+    {
+      "institution": "Hawaii Medical College, Honolulu, HI",
+      "area": "Medical Assistant",
+      "studyType": "Certification.",
+      "startDate": "2016-06-17",
+      "endDate": "2017-09-24",
+      "gpa": "",
+      "courses": [
+        "",
+        "",
+        ""
       ]
     }
   ],
@@ -85,7 +111,7 @@
     {
       "company": "Leeward Community College",
       "position": "IT Student Aide/Helpdesk Training",
-      "website": "",
+      "website": "https://www2.leeward.hawaii.edu/itg/helpdesk ",
       "startDate": "2019-09-21",
       "endDate": "Present",
       "summary": "Leeward Testing Center and Helpdesk",
