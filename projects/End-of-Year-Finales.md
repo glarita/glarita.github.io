@@ -3,7 +3,7 @@ layout: project
 type: project
 image: 
 title: End of Year Finales
-permalink: projects/vacay
+permalink: projects/End-of-Year-Finales
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01
 labels:
