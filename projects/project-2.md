@@ -5,7 +5,7 @@ image: images/vacay-square.png
 title: Creating a Computer Setup
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
-date: 2018-07-1
+date: 2018-07-01
 labels:
   - Javascript
   - Meteor
