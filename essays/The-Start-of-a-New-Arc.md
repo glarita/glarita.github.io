@@ -35,10 +35,10 @@ Learning more coding languages is like learning more tricks, and having more tri
 
 Exercise is good for the body, but a lot of times people neglect the most important thing to exercise, *your brain*.
 
-I definitely find WODS challenging, especially with the limited time that we have for them. Although they can be stressful, it is exactly what I need in order to propel myself to the next level. Experiencing the pressure of a time limit will have its benefits for the real world, where there are deadlines all the time. It trains me to think quicker and remain calm, while also thinking about how I am going to solve the problem given to us. 
+I definitely find WODS challenging, especially with the limited time that we have for them. Although they can be stressful, it is exactly what I need in order to propel myself to the next level. Experiencing the pressure of a time limit will have its benefits for the real world, where there are deadlines frequently and the lines of code are much more complicated. It trains me to think quicker and remain calm, while also thinking about the next steps I need to take to solve the problem at hand.
 
-I feel the same way when it comes to athletic software engineering. It is a lot to do within a certain period of time, but I think it will be beneficial for me in the end. 
+I feel the same way when it comes to athletic software engineering. It is a lot to do within a certain period of time, but I think it will be beneficial for me in the long run, encouraging me to find new and efficient ways to write code.
 
 ## Onward
 
-Computer science is a challenging field. There are so many variables and so much to learn. Although I know software engineering is by no means an easy path to choose, I believe that it will be well worth it. Learning Javascript and having the opportunity to create projects and enhance my skills feels like I’m starting a new arc to my story, and to that I say onward!
+Computer science is a challenging field, but with a challenging field comes more oppurtunities. As long as I am able to keep on learning and buliding my skillset, I know that more possibilities lie ahead. Although I know software engineering is by no means an easy path to choose, I believe that it will be well worth it. Learning Javascript and having the opportunity to create projects and enhance my skills feels like I’m starting a new arc to my story, and to that I say onward!
