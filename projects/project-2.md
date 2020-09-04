@@ -1,17 +1,16 @@
 ---
 layout: project
 type: project
-image: images/vacay-square.png
-title: Creating a Computer Setup
+image: 
+title: End of Year Finales
 permalink: projects/vacay
 # All dates must be YYYY-MM-DD format!
 date: 2018-07-01
 labels:
-  - Javascript
-  - Meteor
-  - MongoDB
-  - GitHub
-summary: Started creating my ideal desk setup for gaming/productivity from July 2018 - present.
+  - Afterschool Care
+  - Teaching
+  - Coordinating
+summary: Coordinate Finale projects at the end of the school year for students as an Aplus Leader every May from 2014 - 2017.
 ---
 
 <img class="ui medium right floated rounded image" src="../images/vacay-home-page.png">
