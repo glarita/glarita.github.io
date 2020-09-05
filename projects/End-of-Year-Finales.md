@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: End-of-Year-Finales.jpg
+image: images/Pearl-City-Elementary.jpg
 title: End of Year Finales
 permalink: projects/End-of-Year-Finales
 # All dates must be YYYY-MM-DD format!
