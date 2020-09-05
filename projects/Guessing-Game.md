@@ -20,10 +20,10 @@ In my first semester as an ICS student I didn't know what to expect, but I did k
 Although this is a simple game to program, it helped me develop my knowledge of Java that I carry with me today. It displays my ability to think critically, despite being only a few months into school as an ICS student. It also shows my problem solving skills, as well as my ability to document my code adequately and properly name variables at such an early stage of my coding journey.
 
 Here is some lines of code from the loop and if-else statements:
-
+```js
  while (keepTrying) {
          
-         ```js
+         
          // Scanner is declared and intialized within the beginning of the loop so that
          // the program gives another chance for the user to enter in another guess 
          // with every iteration. This also prevents garbage.
