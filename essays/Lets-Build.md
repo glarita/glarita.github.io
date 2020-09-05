@@ -8,6 +8,7 @@ labels:
   - Software Engineering
   - Learning
   - Progression
+  - Improvement
 ---
 
 <img class="ui tiny left circular floated image" src="../images/Software-Engineering.jpg">
