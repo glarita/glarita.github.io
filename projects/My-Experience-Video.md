@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: image/My-Experience-Square.png
+image: images/My-Experience-Square.png
 title: My Experience Video 
 permalink: projects/My-Experience-Video
 # All dates must be YYYY-MM-DD format!
