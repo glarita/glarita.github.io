@@ -15,4 +15,4 @@ summary: A text adventure game I developed for ICS 313.
 
 <img class="ui image" src="{{ site.baseurl }}/images/My-Experience.png">
 
-
+When I made a switch from playing video games on a ps4 console to a gaming PC, I made a video on the changes that I experienced. The video game I used as a reference is called Fortnite: Battle Royale.
