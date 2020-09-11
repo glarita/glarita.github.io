@@ -13,10 +13,10 @@ labels:
 
 <img class="ui medium left floated image" src="../images/stupid-question.jpg">
 
-## Asking the Right Way
+## How Do I Ask?
 
 
-As a software engineering student, it is important to ask questions frequently. Whether the reason you’re asking the question is to better understand a concept or finding an error in your code that you can’t seem to get past. By asking these questions you can learn from others and you can have the opportunity of being provided insight to a solution from another person’s mind. However, asking a question that may not be well thought out can have the opposite effect, and you may not even get an answer. This is what I learned when I read the essay “How to Ask Questions the Smart Way” by Eric Steven Raymond. He covers how technical questions ought to be asked, and how to get the best answers and feedback from the tech community. Below are examples of what Raymond would consider a “smart” question, and an example of a “stupid” question
+As a software engineering student, it is important to ask questions frequently. Whether the reason you’re asking the question is to better understand a concept or finding an error in your code that you can’t seem to get past. By asking these questions you can learn from others and you can have the opportunity of being provided insight to a solution from another person’s mind. However, asking a question that may not be well thought out can have the opposite effect, and you may not even get an answer. This is what I learned when I read the essay “How to Ask Questions the Smart Way” by Eric Steven Raymond. He covers how technical questions ought to be asked, and how to get the best answers and feedback from the tech community. Below are examples of what Raymond would consider a “smart” question, and an example of a "stupid" question
 
 ## The Questions 
 
@@ -33,13 +33,13 @@ By showing all of his effort and by showing his proof of troubleshooting the pro
 
 You can find the link to this post [here](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array).
 
-Now for what Raymond would consider a “stupid” question. 
+Now for what Raymond would consider a "stupid" question. 
 
-### The Stupid Way
+### The Wrong Way
 
 This question asks, “How can I read from a website?”. The user goes into more detail with the question providing a screenshot of the desired digital output and stated that he is trying to make a bot. He also stated that he wants to replicate the display the screenshot provides because he is making a console application where if a certain condition is met, then a send key will be executed. 
 
-From the beginning, the question was not very descriptive and helpful to explain what the user asking the question is trying to achieve. As stated in Raymond’s writing, this probably caused readers to skip his question due to lack of interest and information. This question also was more of a demand to the readers rather than asking how to address the problem, and It’s fairly obvious the user didn’t put in any effort to try and resolve the issue. As expected, there were some harsh comments towards the post, as well as 19 downvotes at the time of this essay. Here is one of the comments made ont the post by a user named *Magus*:
+From the beginning, the question was not very descriptive and helpful to explain what the user asking the question is trying to achieve. As stated in Raymond’s writing, this probably caused readers to skip his question due to lack of interest and information. This question also was more of a demand to the readers rather than asking how to address the problem, and It’s fairly obvious the user didn’t put in any effort to try and resolve the issue. As expected, there were some harsh comments towards the post, as well as 19 downvotes at the time of this essay. Here is one of the comments made on the post by a user named *Magus*:
 *" If you have not tried to solve the problem, SO won't either. We aren't a living, breathing encyclopedia. If you need research, use Google."*
 
 This is a perfect example of what not to do when asking a question. Asking a question that shows no effort put into solving it, while basically asking for an answer from readers as well, will get people upset. People will think “why should I answer your question? We aren’t an object that is readily available to answer all of your problems”. Despite the negative feedback from the community, there managed to be one short answer to this question which provided a brief explanation and a link, but nothing nearly as descriptive and helpful as the answers given from the smart post. 
