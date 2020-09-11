@@ -31,7 +31,7 @@ Although this question is older and was asked a little over eight years ago, it 
 
 By showing all of his effort and by showing his proof of troubleshooting the problem, he narrowed down the possibilities of what could be causing this processing anomaly, which is one of the points that Raymond made in his essay. The question also covers other points that Raymond made, including describing the symptoms of his issue, showing that he made an effort to solve the problem, and writing clearly so that the reader can understand the question, all of which are characteristics of a smart question. Since there was effort put in by the user asking the question, naturally there was effort reciprocated by the readers answering the question. The majority of the answers concluded that the issue was caused by Branch Prediction. The answers went into great detail explaining what branch prediction is, even pointing out which part of the user’s code could be causing the issue. With over 24,000 up-votes (meaning that the question showed effort and was clear), this question is a perfect example of a “smart” question under Raymond’s terms. 
 
-You can find the link to this post here.
+You can find the link to this post [here](https://stackoverflow.com/questions/11227809/why-is-processing-a-sorted-array-faster-than-processing-an-unsorted-array).
 
 Now for what Raymond would consider a “stupid” question. 
 
@@ -43,7 +43,7 @@ From the beginning, the question was not very descriptive and helpful to explain
 
 This is a perfect example of what not to do when asking a question. Asking a question that shows no effort put into solving it, while basically asking for an answer from readers as well, will get people upset. People will think “why should I answer your question? We aren’t an object that is readily available to answer all of your problems”. Despite the negative feedback from the community, there managed to be one short answer to this question which provided a brief explanation and a link, but nothing nearly as descriptive and helpful as the answers given from the smart post. 
 
-You can find the link to this question here.
+You can find the link to this question [here](https://stackoverflow.com/questions/21766408/how-can-i-read-from-a-website-c-sharp).
 
 ## Be Intelligent!
 
