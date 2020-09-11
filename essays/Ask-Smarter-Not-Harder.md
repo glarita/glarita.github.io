@@ -11,7 +11,7 @@ labels:
   - Questions
 ---
 
-<img class="ui medium left floated image" src="../images/stpid-question.jpg">
+<img class="ui medium left floated image" src="../images/stupid-question.jpg">
 
 ## Asking the Right Way
 
