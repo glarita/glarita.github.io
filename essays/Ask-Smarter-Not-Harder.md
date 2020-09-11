@@ -11,17 +11,15 @@ labels:
   - Questions
 ---
 
+<img class="ui medium left floated image" src="../images/rtfm.png">
 
+## Asking the Right Way
 
-## Are Asking Questions that Hard?
-
-<img class="ui tiny left circular floated image" src="../images/Overthinking.jpg">
 
 As a software engineering student, it is important to ask questions frequently. Whether the reason you’re asking the question is to better understand a concept or finding an error in your code that you can’t seem to get past. By asking these questions you can learn from others and you can have the opportunity of being provided insight to a solution from another person’s mind. However, asking a question that may not be well thought out can have the opposite effect, and you may not even get an answer. This is what I learned when I read the essay “How to Ask Questions the Smart Way” by Eric Steven Raymond. He covers how technical questions ought to be asked, and how to get the best answers and feedback from the tech community. Below are examples of what Raymond would consider a “smart” question, and an example of a “stupid” question
 
 ## The Questions 
 
-<img class="ui tiny left circular floated image" src="../images/Ollie.jpg">
 
 Both of these questions that I provide below are questions found on StackOverflow, which is a website where developers can ask questions and other developers can leave their answers and provide advice. I’ll start with an example of a smart question first. 
 
