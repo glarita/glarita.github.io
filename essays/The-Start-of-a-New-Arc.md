@@ -34,7 +34,7 @@ I grew up being a hardcore skateboarder, yelling "skate and destroy" while ridin
 
 Learning more coding languages is like learning more tricks, and having more tricks gives you more versatility to be creative and express your individuality. I’m not the fastest learner when it comes to coding, but I enjoy the challenge of mastering it to the best of my abilities so that I can express myself. 
 
-## Brain Games
+## Brain Gains
 
 <img class="ui tiny left circular floated image" src="../images/brainworkout.png">
 
