@@ -27,7 +27,6 @@ The ability to create using our conscience is something that seems so simple, bu
 
 ## Another Tool in the Box
 
-<img class="ui tiny left circular floated image" src="../images/Ollie.jpg">
 
 Like any other language, Javascript is a bit difficult for me to catch on to right away, but I did find it to be a bit easier than the past languages I have learned due to its more simplistic nature. Although, it doesn’t mean that it won’t come with its headaches. 
  
@@ -47,6 +46,5 @@ I feel the same way when it comes to athletic software engineering. It is a lot 
 
 ## Onward
 
-<img class="ui tiny left circular floated image" src="../images/future.jpg">
 
 Computer science is a challenging field, but with a challenging field comes more oppurtunities. As long as I am able to keep on learning and buliding my skillset, I know that more possibilities lie ahead. Although I know software engineering is by no means an easy path to choose, I believe that it will be well worth it. Learning Javascript and having the opportunity to create projects and enhance my skills feels like I’m starting a new arc to my story, and to that I say onward!
