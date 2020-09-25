@@ -32,7 +32,7 @@ It was everything that I thought it would be, and more. My indentations, functio
 On the left is an example of my code on intelliJ and the green checkmark on the top right of the program.
 
 
-## Setting the Standards
+## The Future with Standards
 
 My experience with ESLInt and IntelliJ has been great. I would have never thought that there would be a development environment that would mark your errors for you, and even though it required a lot of work to get past the learning curve of learning a new IDE and implementing ESLint, it was all worth it in the end. Knowing that I will be using both IntelliJ and ESLint more throughout my future in my software engineering class gives me a sense of comfort, because I know that I can improve my skills while also producing clean and elegant code, and I plan on continuing to use ESLint for future classes and careers.
 
