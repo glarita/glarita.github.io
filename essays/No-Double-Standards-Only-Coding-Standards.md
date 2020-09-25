@@ -29,7 +29,7 @@ Learning how to navigate and use IntelliJ already proved to be a confusing task 
 ## The Green Checkmark
 
 It was everything that I thought it would be, and more. My indentations, function names, quotation marks, and even new line and typo errors all showed up when I decided to write some code. This made coding so much easier, and also made me realize how unorganized my code could be. I would no longer have to look through hundreds of lines of code just to find out a line was missing a semicolon, or a function call was misspelt. It was all marked for me! Then, I decided to hover my mouse over an error that was marked by ESLint, and boom; it showed what the problem was, and what I could do to correct it.  I was stoked! I was also informed that a green checkmark on the top right of the screen would appear when there are no coding standard issues with the code, which I found so incredibly useful and convenient. That’s when I knew going through all the trouble of configuring everything in IntelliJ, along with the sweat and frustration that came with it, was worth it. That moment I knew my coding life and my coding habits would change forever, and I now strive to achieve that green checkmark on the top right of my screen. Achieving that green checkmark gives me confidence that my code at that point is the cleanest that it can possibly be. 
-Below is an example of intelliJ and the green checkmark on the top right of the program. 
+Below is an example of intelliJ and the green checkmark on the top right of the program, along with the different files that needed to be downloaded into the project on the top of the program.
 
 <img class="ui medium left floated image" src="../images/IntelliJ.png">
 
