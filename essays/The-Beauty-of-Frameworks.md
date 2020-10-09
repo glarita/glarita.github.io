@@ -11,7 +11,7 @@ labels:
   - Frameworks
 ---
 
-<img class="ui medium left circular floated image" src="../images/Semantic-logo.png">
+<img class="ui tiny left circular floated image" src="../images/Semantic-logo.png">
 
 ## The World of Design
 I have always wondered how websites are created. Does someone just draw them out in a program? How do the functions and links work on a web page? How are they added to browsers so that everyone can view them? These are all questions I constantly asked myself when I came across an admirable website. There was something so satisfying when coming across an aesthetically pleasing webpage, and it always left me curious on how people could create such beautiful web designs. I knew that HTML and CSS are used to create websites, but I also knew there had to be another way to make a website look clean and modern without looking like it travelled to the future from the 1980’s. Then I discovered Semantic UI, and that’s when everything made sense. The simplicity and the use of natural language that Semantic provided made web design so much simpler and easier to read. But despite its simplistic implementations, the amount of work that is needed to become fully comfortable with the framework remains the same as any programming language, complex and time consuming. 
