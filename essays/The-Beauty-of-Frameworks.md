@@ -11,7 +11,7 @@ labels:
   - Frameworks
 ---
 
-<img class="ui medium left floated image" src="../images/coding-standards.png">
+<img class="ui medium left floated image" src="../images/Semantic-logo.png">
 
 ## The World of Design
 I have always wondered how websites are created. Does someone just draw them out in a program? How do the functions and links work on a web page? How are they added to browsers so that everyone can view them? These are all questions I constantly asked myself when I came across an admirable website. There was something so satisfying when coming across an aesthetically pleasing webpage, and it always left me curious on how people could create such beautiful web designs. I knew that HTML and CSS are used to create websites, but I also knew there had to be another way to make a website look clean and modern without looking like it travelled to the future from the 1980’s. Then I discovered Semantic UI, and that’s when everything made sense. The simplicity and the use of natural language that Semantic provided made web design so much simpler and easier to read. But despite its simplistic implementations, the amount of work that is needed to become fully comfortable with the framework remains the same as any programming language, complex and time consuming. 
@@ -22,7 +22,7 @@ When I first learned about UI Semantics, I was extremely excited to learn the fr
 As I got started with my first assignments, I realized that there was a lot functionality to remember. Containers, menus, and other elements all overwhelmed me, leaving me with self-doubt. And the fact that you can combine two elements together and have both of their functions in one? Pretty cool, but difficult to remember and comprehend. For example, I found myself nesting containers and grids in each other, when I could have just combined the two to get a much simpler means of achieving the task at hand. I was repeating this process multiple times, constantly testing, failing, and relearning. Before I knew it, hours would have past and I was still on the same piece of code with little progress. My patience started to weaken, and my frustration started to increase, but with each mistake and with each hour that passed, I was getting closer to the end goal, and at the same time more comfortable with the framework.
 
 ### Satisfaction
-<img class="ui medium left floated image" src="../images/IntelliJ.png">
+<img class="ui medium left floated image" src="../images/glorious.png">
 
 The fact that I was making progress, even if it was only a little, pushed me to keep going, and to keep learning the complex world of UI frameworks. Soon enough I finally was able to finish my assignments, and it was well worth it. Looking at the websites I recreated, I could confidently say to myself “I did that”, and that was enough to make my struggles, frustrations, and hours put into learning the framework worth it. I experienced a combination of many feelings; Relief, happiness, and I think the most prominent, satisfaction. Coding in languages like JavaScript and Java also give me a sense of satisfaction and completion, but this was different. I could visually see my work and it had me feeling like an artist who had just painted a mural on a wall for the world to see. Although there was a lot of time and effort dedicated to learning UI framework, it was well worth it for me.
 ## The Importance of Design
