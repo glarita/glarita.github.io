@@ -10,7 +10,7 @@ labels:
 - Design Patterns
 ---
 
-<img class="ui tiny left circular floated image" src="../images/Semantic-logo.png">
+<img class="ui tiny left circular floated image" src="../images/design-patterns.png">
 
 ## What is the Pattern?
 “Wait, you can have designs in patterns? Or patterns in design? I’m confused”. These are the first thoughts that I had when I found out that we will be covering design patterns. To be completely honest, when first seen the words design pattern, I immediately thought of intricate visual designs such as plaid or paisley (Obviously I was completely wrong). After diving deeper into the topic, I realized it was nowhere near what I was expecting it to be (No visual designs? Bummer!). As I was going through the different types of design patterns, I was becoming more confused. There was a lot to go over, and each one had their own specific use, which for some reason I could not wrap my head around. After reviewing the different design patterns, I realized that it is simpler than I was making it out to be, it’s basically a developed template made to address a problem. The way I like to think of this is like building a computer. There are many parts to a computer, but all have a similar outcome when put together, they make a functional and usable computer. Design patterns are like the parts. There are parts that help solve the processing of data, parts that solve the problem of storing memory, and parts that handle the problem of powering on the computer. These are all parts developed by someone-else, and so our job is to just put the computer together following the design pattern of each part. 
