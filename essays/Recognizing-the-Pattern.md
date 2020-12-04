@@ -1,13 +1,14 @@
 ---
 layout: essay
 type: essay
-title: Recognizing the Patterns
+title: The Beauty of Frameworks
 # All dates must be YYYY-MM-DD format!
-date: 2020-12-03
+date: 2020-10-08
 labels:
   - Software Engineering 
-- Learning
-- Design Patterns
+  - Learning
+  - UI
+  - Frameworks
 ---
 
 <img class="ui tiny left circular floated image" src="../images/design-patterns.png">
