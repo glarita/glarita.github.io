@@ -10,7 +10,7 @@ labels:
   - Reflecting
 ---
 
-
+<img class="ui medium left floated image" src="../images/learning.jpg">
 
 ## Experiences Gained and Lessons Learned
 What is software engineering? What do software engineers even do? These are questions I asked myself before taking my software engineering class. Before starting this semester, I was completely clueless on what I would learn and what I would do in class, and honestly, I was scared. As the semester started and the class went on, I learned things about development and software engineering that I thought I would have never learned before, and I found the class more and more enjoyable. Software engineering started feeling less scary and more like a goal that challenged me to do better. It helped keep my work ethic high, pushed me to learn and think critically and allowed me to become much more familiar with web application development. Now that this semester is coming to a close, and I can confidently say that software engineering has been one of my favorite classes. I not only learned software engineering skills, but skills applicable to real-life and other fields.
