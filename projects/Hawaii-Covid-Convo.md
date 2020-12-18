@@ -14,7 +14,7 @@ labels:
 summary: Final Project created by my group members and I for my software engineering class ICS 314 in fall 2020.
 ---
 
-<img class="ui medium left floated circular image" src="../images/hawaii-covid-convo.png">
+<img class="ui medium left floated rounded image" src="../images/hawaii-covid-convo.png">
 
 My first semester at UH Manoa was a tough one. There was a significant jump in difficulty for my classes, and the semester was amongst the COVID-19 pandemic, so all classes were taught online. But there once class stood out to me, and that was ICS 314, software engineering. I did not know what to expect for the class, but I knew that it would be difficult and intense. Fast forward to the end of the semester I realized that I really had fun developing in the class. For our final project we had to create a fully functional web application that would allow us to demonstrate the skills we learned in the class. We were to work in groups of four people and choose one application out of the many options we were given to try and create. Our group ended up choosing to create a Hawaii COVID-19 chatbot application that allowed users to ask the chat-bot a question regarding COVID-19, which they would then receive an answer to by the chat-bot.  
 
