@@ -15,7 +15,7 @@ labels:
 
 ## Time for Change
 
-Up until the past two years, I never considered myself to be a computer person. When I first decided to go to college I majored in liberal arts, and I dreaded the fact that we would have to use a computer even for the most basic needs like using Laulima and email. I did enough just to get by. Fast forward to 2018, I decided to go back to school for computer science. *What made me change my mind?*
+Up until the past two years, I never considered myself to be a computer person. When I first decided to go to college I majored in liberal arts, and I dreaded the fact that we would have to use a computer even for the most basic needs like using our school website Laulima and email. I did enough just to get by. Fast forward to 2018, I decided to go back to school for computer science. *What made me change my mind?*
 
 While I was researching some things on google to help enhance my gaming computer’s performance I stumbled across coding and software engineering. I was amazed that something like a website or application could be built using a language that seemed foreign to me. At the time I was working as a medical assistant, unhappy and looking for a fresh new start. And that’s when I decided that I’m going to go back to school.
 
