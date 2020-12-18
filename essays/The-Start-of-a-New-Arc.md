@@ -21,7 +21,7 @@ This a question that I found asking myself every start of a semester. The syllab
 
 And yet, I still find myself excited for software engineering. 
 
-The ability to create using our conscience is something that seems so simple, but no other animal in the world creates like humans create. And the fact that we are creating things like websites, applications, and machines is amazing, giving me all the more reason to be excited to learn about software engineering. It allows me to experience the creation of things that I admire. 
+The ability to create using our imagination is something that seems so simple, but no other animal in the world creates like humans create. And the fact that we are creating things like websites, applications, and machines is amazing, giving me all the more reason to be excited to learn about software engineering. It allows me to experience the creation of things that I admire through code. But learning and utilizing coding languages like Javascript can be difficult.
 
 
 
@@ -32,7 +32,7 @@ Like any other language, Javascript is a bit difficult for me to catch on to rig
  
 I grew up being a hardcore skateboarder, yelling "skate and destroy" while riding down the sidewalk with my long hair flowing in the wind. Although skateboarders tend to have a certain stigma associated with them, what I love about skateboarding is the ability to express your individuality with your set of tricks and deciding how you want to apply them. Whether it’s trying a grind down a rail in a way that no one has seen, or just mastering your tricks with near perfect consistency and execution. The reason I bring up my past skateboarding ways is because I think of coding very similarly to skateboarding.
 
-Learning more coding languages is like learning more tricks, and having more tricks gives you more versatility to be creative and express your individuality. I’m not the fastest learner when it comes to coding, but I enjoy the challenge of mastering it to the best of my abilities so that I can express myself. 
+Learning more coding languages is like learning more tricks, and having more tricks gives you more versatility to be creative and express your individuality. I’m not the fastest learner when it comes to coding, but I enjoy the challenge of mastering it to the best of my abilities so that I can express myself and exercise my critical thinking skills. 
 
 ## Brain Gains
 
@@ -40,11 +40,10 @@ Learning more coding languages is like learning more tricks, and having more tri
 
 Exercise is good for the body, but a lot of times people neglect the most important thing to exercise, *your brain*.
 
-I definitely find WODS challenging, especially with the limited time that we have for them. Although they can be stressful, it is exactly what I need in order to propel myself to the next level. Experiencing the pressure of a time limit will have its benefits for the real world, where there are deadlines frequently and the lines of code are much more complicated. It trains me to think quicker and remain calm, while also thinking about the next steps I need to take to solve the problem at hand.
+I definitely find workout out of the days (WODs) challenging in my software engineering class, especially with the limited time that we have for them. For readers who are unaware, WODs are coding quizzes that test our knowledge of the code that we had learned in ICS 314 - software engineering. Although they can be stressful, it is exactly what I need in order to propel myself to the next level. Experiencing the pressure of a time limit will have its benefits for the real world, where there are deadlines frequently and the lines of code are much more complicated. It trains me to think quicker and remain calm, while also thinking about the next steps I need to take to solve the problem at hand.
 
-I feel the same way when it comes to athletic software engineering. It is a lot to do within a certain period of time, but I think it will be beneficial for me in the long run, encouraging me to find new and efficient ways to write code.
+I feel the same way when it comes to athletic software engineering, which is an approach that my software engineering professor Philip Johnson takes when teaching his students, and is essentially accelerated learning of javascripts, project management, and frameworks. It is a lot to do within a certain period of time, but I think it will be beneficial for me in the long run, encouraging me to find new and efficient ways to write code.
 
 ## Onward
-
 
 Computer science is a challenging field, but with a challenging field comes more oppurtunities. As long as I am able to keep on learning and buliding my skillset, I know that more possibilities lie ahead. Although I know software engineering is by no means an easy path to choose, I believe that it will be well worth it. Learning Javascript and having the opportunity to create projects and enhance my skills feels like I’m starting a new arc to my story, and to that I say onward!
