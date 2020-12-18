@@ -20,7 +20,7 @@ My first semester at UH Manoa was a tough one. There was a significant jump in d
 
 Our group ended up creating a fully functioning chat-bot application with many different implementations. We added a home page, an about page, a user feedback page, and an analytics page that would display the user feedback to a logged in user so that adjustments to the application could be made based off of reviews. Our group also managed to implement responses to more than 50 different questions that could be asked about COVID-19. To check out our application, you can click on this link.
 
-<img class="ui large right floated rounded image" src="../images/chatbot.png">
+<img class="ui large rounded image" src="../images/chatbot.png">
 
 
 Our group approached this project with issue driven project management, where we assigned lightweight tasks consistently to each group member. This way, our group members were able to work on their own individual tasks without causing any issues or overrides to the tasks that the other members were working on. I contributed to this project by doing research on the questions and the answers that our chat-bot could receive and provide back to the user. I also researched and helped implement the chat-bot itself using Google Dialogflow, which is a natural language platform that helps with implementing conversational user interfaces into applications. I was also assigned the task of creating user feedback forms, where users of our application are able to fill out a form and provide feedback on what they think can be improved about the application. This feedback would be later displayed to a user that had an account with our website. As of now, I consider this project to be my biggest accomplishment as an aspiring software engineer. 
