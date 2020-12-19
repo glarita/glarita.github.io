@@ -11,6 +11,7 @@ labels:
   - Software Engineering
   - Learning
   - ICS 314
+  - Agile Project Management
 summary: Final Project created by my group members and I for my software engineering class ICS 314 in fall 2020.
 ---
 
