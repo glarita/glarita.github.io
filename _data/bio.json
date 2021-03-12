@@ -77,17 +77,31 @@
     }
   ],
   "education": [
+        {
+      "institution": "University of Hawaii at Manoa, Honolulu, HI",
+      "area": "Computer Science (expected Fall, 2022)",
+      "studyType": "B.S.",
+      "startDate": "2021-01-11",
+      "endDate": "Present",
+      "gpa": "",
+      "courses": [
+        "Operating Systems",
+        "Database Systems",
+        "Physics 152/152L",
+        "Japanese 201"
+      ]
+    },
     {
       "institution": "University of Hawaii at Manoa, Honolulu, HI",
       "area": "Computer Science (expected Fall, 2022)",
       "studyType": "B.S.",
       "startDate": "2020-08-24",
-      "endDate": "Present",
-      "gpa": "",
+      "endDate": "2020-12-17",
+      "gpa": "4.0",
       "courses": [
         "Software Engineering",
         "Algorithms",
-        "Physics",
+        "Physics 151/151L",
         "Political Science"
       ]
     },
@@ -109,7 +123,7 @@
     {
       "institution": "Hawaii Medical College, Honolulu, HI",
       "area": "Medical Assistant",
-      "studyType": "Certification",
+      "studyType": "Certification/Diploma",
       "startDate": "2016-06-17",
       "endDate": "2017-09-24",
       "gpa": "",
